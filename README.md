@@ -8,4 +8,4 @@ Column 5: Latitude in degrees \
 Column 6: Longitude in degrees \
 Column 8: Yaw angle in rad 
 
-The sensor node was placed 1.1m in front of the drone (in the drone's heading direction).
+The sensor node was placed 1.1m in front of the drone before takeoff (in the drone's heading direction).
