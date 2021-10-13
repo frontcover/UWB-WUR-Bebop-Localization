@@ -1,5 +1,6 @@
 # UWB-WUR-Bebop-Localization
-Colummn 0: counter for checking data loss
+
+Colummn 0: counter for checking data loss \\
 Column 1: Timestamp - divide by 100 to obtain miliseconds
 Column 2: UWB range in milimeters
 Column 4: Altitude in meters
